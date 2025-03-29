@@ -1,9 +1,9 @@
 <h1 align="center">Resumo e principais habilidades:</h1>
 
-<p align="center">Estudante de Ciência da Computação</p>
-<p align="center">Desenvolvedor <strong>PHP + Laravel</strong> com afinidade em <strong> Python </strong></p>
-<p align="center">Entusiasta em <strong>Cybersecurity</strong> e <strong>automação com VBS</strong></p>
-<p align="center">Explorando: <strong>Golang</strong>, <strong>Spring</strong>, <strong>.NET</strong></p>
+<p>Estudante de Ciência da Computação</p>
+<p>Desenvolvedor <strong>PHP + Laravel</strong> com afinidade em <strong> Python </strong></p>
+<p>Entusiasta em <strong>Cybersecurity</strong> e <strong>automação com VBS</strong></p>
+<p>Explorando: <strong>Golang</strong>, <strong>Spring</strong>, <strong>.NET</strong></p>
 <p align="center">
   <a href="https://br.linkedin.com/in/joaosilva2k" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
