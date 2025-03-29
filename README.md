@@ -1,17 +1,3 @@
-<script>
-var pato = "🦆";
-document.onmousemove = function(e){
-  var x = e.pageX + 10, y = e.pageY + 10;
-  var div = document.getElementById("seguidor");
-  if(div) {
-    div.style.left = x + "px";
-    div.style.top = y + "px";
-  }
-};
-</script>
-<div id="seguidor" style="position:absolute; color:red;">🦆</div>
-
-
 <h1 align="center">Olá!</h1>
 
 <p align="center">
@@ -31,7 +17,6 @@ document.onmousemove = function(e){
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
