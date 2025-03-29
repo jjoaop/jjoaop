@@ -4,6 +4,9 @@
 <p align="center">Desenvolvedor <strong>PHP + Laravel</strong> com afinidade em <strong> Python </strong></p>
 <p align="center">Entusiasta em <strong>Cybersecurity</strong> e <strong>automação com VBS</strong></p>
 <p align="center">Explorando: <strong>Golang</strong>, <strong>Spring</strong>, <strong>.NET</strong></p>
+<p align="center">
+  <a href="https://br.linkedin.com/in/joaosilva2k" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
@@ -35,12 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jjoaop&show_icons=true&theme=radical" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaop&layout=compact&theme=radical" />
-</p>
-
-<br><br><br><br>
-
-<p align="center">
-  <a href="https://br.linkedin.com/in/joaosilva2k" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
