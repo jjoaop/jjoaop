@@ -1,11 +1,9 @@
-<h1 align="center">Olá!</h1>
+<h1 align="center">Resumo e principais habilidades:</h1>
 
-<p align="center">
-  Desenvolvedor <strong>PHP + Laravel</strong> com afinidade em <strong> Python </strong> <br>
-  Estudante de Ciência da Computação <br>
-  Curioso em <strong>Cybersecurity</strong> e <strong>automação com VBS</strong> <br>
-  Explorando: <strong>Golang</strong>, <strong>Spring</strong>, <strong>.NET</strong>
-</p>
+<p align="center">Estudante de Ciência da Computação</p>
+<p align="center">Desenvolvedor <strong>PHP + Laravel</strong> com afinidade em <strong> Python </strong></p>
+<p align="center">Entusiasta em <strong>Cybersecurity</strong> e <strong>automação com VBS</strong></p>
+<p align="center">Explorando: <strong>Golang</strong>, <strong>Spring</strong>, <strong>.NET</strong></p>
 
 ---
 
