@@ -1,7 +1,7 @@
 <h1 align="center">Resumo e principais habilidades:</h1>
 
 <p>Estudante de Ciência da Computação</p>
-<p>Desenvolvedor <strong>PHP + Laravel</strong> com afinidade em <strong> Python </strong></p>
+<p>Desenvolvedor <strong>PHP/Laravel</strong> + <strong> React Native/JavaScript </strong></p>
 <p>Entusiasta em <strong>Cybersecurity</strong> e <strong>automação com VBS</strong></p>
 <p>Explorando: <strong>Golang</strong>, <strong>Spring</strong>, <strong>.NET</strong></p>
 <p align="center">
